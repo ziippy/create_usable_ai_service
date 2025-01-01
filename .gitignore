@@ -3,3 +3,5 @@ speech/examples
 speech/*.webm
 speech/*.srt
 speech/*.mp4
+image_generation/examples
+image_generation/models

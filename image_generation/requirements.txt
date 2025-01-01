@@ -1,0 +1,9 @@
+diffusers
+accelerate
+transformers
+torch
+torchvision
+huggingface-hub
+
+# app
+gradio
