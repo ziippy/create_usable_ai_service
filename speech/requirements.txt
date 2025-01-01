@@ -1,0 +1,6 @@
+openai-whisper
+openai
+pytubefix
+
+# app
+gradio

@@ -1,1 +1,5 @@
 segmentation/checkpoint
+speech/examples
+speech/*.webm
+speech/*.srt
+speech/*.mp4
